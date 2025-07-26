@@ -41,7 +41,11 @@ A modern, responsive mock banking application built with vanilla JavaScript, HTM
 
 ## ⚙️ How It Works
 
-1. **Log in** with your username and PIN (predefined in the JS file).
+1. **Log in** Log in with your username and PIN. There are two predefined users for demo purposes:
+
+Pushpender (username: pv, PIN: 1111)
+
+Kajal (username: ks, PIN: 2222)
 2. **View transactions**: Each entry is date-labeled and color-coded (deposit/withdrawal).
 3. **Transfer funds** to another user by inputting username and amount.
 4. **Request a loan**—auto-grant if conditions are met.
